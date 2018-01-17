@@ -1,7 +1,7 @@
 # payyoupayme
 web applications for Sending / Receiving money similar to Venmo.
 
-## High-level Requirements:
+### High-level Requirements:
   Sign-Up page 
   Login page 
   Logout link
@@ -10,7 +10,7 @@ web applications for Sending / Receiving money similar to Venmo.
   Invite a Friend
   Send Payment to a Friend
 
-## Bonus Requirements:
+### Bonus Requirements:
   Require user to set/provide password during sign-up and login
   Public vs Private Payment
   Public Activity Summary Feed
