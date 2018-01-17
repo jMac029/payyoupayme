@@ -1,0 +1,26 @@
+{
+  "name": "payyoupayme",
+  "version": "1.0.0",
+  "description": "web applications for Sending / Receiving money similar to Venmo.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jMac029/payyoupayme.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jMac029/payyoupayme/issues"
+  },
+  "homepage": "https://github.com/jMac029/payyoupayme#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.2",
+    "express-handlebars": "^3.0.0"
+  }
+}
